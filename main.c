@@ -1,32 +1,34 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
+
 main() {
 	start();
 }
-double calc(double num) {
-	if (num < 20) {
-		num = ((num - 20) * (num - 20)) / 6 + 10;
+
+double Q(double X) {
+	if (X < 20) {
+		X = ((X - 20) * (X - 20)) / 6 + 10;
 	}
-	else if (num >= 20 && num <= 45) {
-		num = 3 * (num - 32.5) + 50;
+	else if (X >= 20 && X <= 45) {
+		X = 3 * (X - 32.5) + 50;
 	}
-	else if (num > 45) {
-		num = 2 * sqrt(num - 45 + 1) + 60;
+	else if (X > 45) {
+		X = 2 * sqrt(X - 45 + 1) + 60;
 	}
-	return num;
+	return X;
 }
+
 int start()
 {
 	setlocale(LC_ALL, "RUS");
-	double num;
-	printf("Введите показатель X (в интервале 5-70): ");
-	scanf("%lf", &num);
-	if (num >= 5 && num <= 70) {
-		printf("Вычисленное значение: %.2lf\n", calc(num));
+	double X;
+	printf("Введите показатель X (от 5 до 70): ");
+	scanf("%lf", &X);
+	if (X >= 5 && X <= 70) {
+		printf("Итоговое значение Q = %.2lf\n", Q(X));
 	}
 	else {
-		printf("Ошибка: значение вне допустимых границ (5-70)!\n");
+		printf("Ошибка! Значение должно быть от 5 до 70.\n");
 	}
 }
