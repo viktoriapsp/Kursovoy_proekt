@@ -50,8 +50,9 @@
   4. Конец
 
 ### Блок-схема
+<img width="422" height="722" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/56d41382-d6d9-476a-9195-55e7fa2c986f" />
 
-Ссылка на блок-схему
+[Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio.png&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22Mkn4KjVn3nEORs4h2L9A%22%3E7ZnRbpswFIafBqmttApsIOSySdPuZlKrXKy99IILaICZcZpkT79jMMGQdE0pZcm2RKL28bHB3%2F9DbWLgabK%2B5SQLvzCfxgYy%2FbWBrw2ELBOb8EdGNmXENVEZCHjkq6Q6MI9%2B0qqnii4jn%2BaNRMFYLKKsGVywNKUL0YgRztmqmfbE4uZZMxLQncB8QeLd6NfIF2EZ9dCojn%2BmURBWZ7bccdmSkCpZzSQPic9WWgjPDDzljImylKynNJbwKi5lv5sXWrcXxmkqDumQC8LFbic1Ti421ZShG9CFymQVRoLOM7KQLSsQGGKhSGKoWVB8iuJ4ymLGi374yZFfiOeCs%2B9Uayk%2F0FKe65nES3Uu49o0xtfyODENGNQbVWU4TorjTHWiXNC1ds1qlreUJVTwDaSEmhCOor6qRbMqJdQouMpR1rRVlSjLBNuRa6pQUGD3Q47SbHkQZHBDJouQReKYxizgJAFCGeURnJXydttd3fC6Lmta3Up96lQcJ0ipIo82ZD30po%2Fd0sdu6mP1IZBPF3vunF19eMiSb8t8kJsACMLMXJLIoWNRpJgQwjed0HpvR9uL9zPODmTLlqlPZS9zEL73kq8smWdnD5%2BQeW5MEfj4HCbkFugl7%2BofTg8%2BdpuwHa8F23F68TE6AR8X1G1nQCtjrycrH4b3j1kZX4CXMbp0zrcWdgazMB73YGEJGR83ZHSR%2F%2BACQIOF0cSqUbv9ofZafkZN1I7Vg5%2FZUvzd6xJYOU72rk7uh1qduH3oRFP%2FEJEGX6FfaVTL1bpTMHd7o%2FvK2nzUC10%2FoAqmLDbo7gPOlnxR3Rb15knXAUaZqyrjImQBS0k8q6OT5qNLU4auI%2FEgw5eOqj1WLSlMS2uS1Uc1wGu6wVUGVM1iuxXZFYPTmIjouUngvWRRN7LajulUyFZ7iIHA4m5g651Ov1wtjaoG8kH1qKleHvKk0blqG4j2A8hWrwWGo24fF%2FUPdTPaD11%2F0qMB0Tud0aPTM%2FwL7Ic3vHtc1D%2FO8Nq%2B41gcP%2BrGXntgngr8eifyDrRF1yvOyUZLyFiUilwb%2BU4G6iWl67Y2Vl7rfXkr37Z%2Bmw%2BF8gpqkbdTOVh3r7vuJ3bT%2Fddd133cXXf8D%2Br%2Bpg2e2Y2t%2ForkVOCq1wX9k4Vq%2FcNk6fH65108%2BwU%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 
 ## Реализация программы
 
